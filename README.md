@@ -11,8 +11,8 @@
 
 - 🏆 Finalist at **National Level Robotics Competition**
 - 🔭 I’m currently working on **NLP and IoT**
-- 🌱 I’m currently learning **Deep Learning**
-- 👯 I’m looking to collaborate on **Projects & Open Source** : https://github.com/kathan-majithia/networkdiagram
+- 🌱 I’m currently learning **Gen AI**
+- 👯 I’m looking to collaborate on **Projects & Open Source** : https://github.com/kathan-majithia/networkdiagram (40+ Issues, 15+ pr)
 - 👨‍💻 All of my projects are available at  👉 https://github.com/kathan-majithia/
 - 📫 How to reach me: **kathanmajithia@gmail.com**
 
@@ -97,7 +97,7 @@ A lightweight Python library for creating **Project Network Diagrams (CPM/PERT)*
 🔗 https://pypi.org/project/networkdiagram/
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -105,8 +105,9 @@ A lightweight Python library for creating **Project Network Diagrams (CPM/PERT)*
 </p>
 
 ---
+-->
 
-## 🔥 Streak Stats
+## 🔥 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathan-majithia&theme=tokyonight" />
@@ -114,8 +115,10 @@ A lightweight Python library for creating **Project Network Diagrams (CPM/PERT)*
 
 ---
 
+<!--
 ## 📈 Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathan-majithia&layout=compact&theme=tokyonight" />
 </p>
+-->
